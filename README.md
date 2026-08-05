@@ -1,7 +1,6 @@
 # Critical Values for the KS, CvM, and AD Goodness-of-Fit Tests for the Log-Normal Distribution with Estimated Parameters
 
 **Author:** Chanry Shuai
-**Course:** ISYE 6644 – Simulation, Georgia Institute of Technology
 
 ## Overview
 
