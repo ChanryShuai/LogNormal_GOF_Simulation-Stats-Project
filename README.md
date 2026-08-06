@@ -10,9 +10,7 @@ Standard critical values for empirical distribution function (EDF) goodness-of-f
 
 | File | Description |
 |---|---|
-| `Shuai_LogNormal_KS_CVM_AD.pdf` | Original final project report (v1). |
 | `LogNormal_KS_CVM_AD_v2.pdf` | Revised report (v2) with corrected theoretical framing and validation discussion. |
-| `LogNormal_KS_CVM_AD.pages` / `LogNormal_KS_CVM_AD_v2.pages` | Apple Pages source files for the corresponding report versions. |
 | `shuai_lognormal_ks_cvm_ad.py` | Python script implementing the Monte Carlo simulation and generating the critical value tables used in the report. |
 
 ## Method Summary
